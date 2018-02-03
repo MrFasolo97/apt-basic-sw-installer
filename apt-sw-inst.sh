@@ -1,4 +1,4 @@
 #!/bin/bash
 sudo apt update
 sudo apt upgrade -y
-sudo apt install screen htop iotop ufw
+sudo apt install -y screen htop git iotop ufw
