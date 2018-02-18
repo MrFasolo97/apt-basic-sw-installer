@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo apt update
-sudo apt upgrade -y
-sudo apt install -y screen zip unzip htop git iotop ufw
+sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install -y screen zip unzip htop git iotop ufw
